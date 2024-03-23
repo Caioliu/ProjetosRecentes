@@ -1,0 +1,3 @@
+[submodule "ebac-backend-java-specialist-course"]
+	path = ebac-backend-java-specialist-course
+	url = https://github.com/Caioliu/ebac-backend-java-specialist-course.git
