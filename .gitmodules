@@ -7,3 +7,6 @@
 [submodule "rpg-duel-v1"]
 	path = rpg-duel-v1
 	url = https://github.com/Caioliu/rpg-duel-v1.git
+[submodule "project-calculator-java"]
+	path = project-calculator-java
+	url = https://github.com/Caioliu/project-calculator-java.git
