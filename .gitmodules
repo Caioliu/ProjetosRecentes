@@ -4,3 +4,6 @@
 [submodule "programming-module-exercises"]
 	path = programming-module-exercises
 	url = https://github.com/Caioliu/computer-programming-module-computer-science-degree.git
+[submodule "rpg-duel-v1"]
+	path = rpg-duel-v1
+	url = https://github.com/Caioliu/rpg-duel-v1.git
