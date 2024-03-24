@@ -1,3 +1,6 @@
 [submodule "ebac-backend-java-specialist-course"]
 	path = ebac-backend-java-specialist-course
 	url = https://github.com/Caioliu/ebac-backend-java-specialist-course.git
+[submodule "programming-module-exercises"]
+	path = programming-module-exercises
+	url = https://github.com/Caioliu/computer-programming-module-computer-science-degree.git
